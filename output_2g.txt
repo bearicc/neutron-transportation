@@ -1,0 +1,25 @@
+% Input data
+1.000000 0.009200 0.004600 1.000000 1.000000 0.000000 
+2.000000 0.092700 0.113500 0.000000 0.020400 2.000000 
+
+% Migration matrix
+0.029600 0.000000 
+-0.020400 0.092700 
+
+% Fission matrix
+0.004600 0.113500 
+0.000000 0.000000 
+
+% Eigenvalues
+0.000000 0.999235 
+
+% Eigenvectors
+-0.999180 -0.976631 
+0.040495 -0.214922 
+
+% Largest eigenvalue
+0.999235
+
+% Eigenvector corresponding to the largest eigenvalue
+0.976631
+0.214922
